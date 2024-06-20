@@ -1,0 +1,14 @@
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\bin\Debug\net8.0\OOPlr8.exe
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\bin\Debug\net8.0\OOPlr8.deps.json
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\bin\Debug\net8.0\OOPlr8.runtimeconfig.json
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\bin\Debug\net8.0\OOPlr8.dll
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\bin\Debug\net8.0\OOPlr8.pdb
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.AssemblyInfoInputs.cache
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.AssemblyInfo.cs
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.csproj.CoreCompileInputs.cache
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.dll
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\refint\OOPlr8.dll
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.pdb
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\OOPlr8.genruntimeconfig.cache
+C:\C# projects\OOPlr8\OOPlr8\OOPlr8\obj\Debug\net8.0\ref\OOPlr8.dll
